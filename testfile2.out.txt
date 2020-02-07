@@ -1,0 +1,2 @@
+AVL path: higher flying greatly had
+AVL numNodes: 14
